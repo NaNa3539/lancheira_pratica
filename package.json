@@ -1,0 +1,14 @@
+{
+  "name": "lancheira_pratica",
+  "version": "1.0.0",
+  "description": "Prot\u00f3tipo educativo de lancheira saud\u00e1vel",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "N\u00e1dia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
